@@ -1,6 +1,7 @@
-### Hi!I am Macarena  👋
 <h1>Hi!I am Macarena!</h1>
 <h3>I am a fullstack developer. Welcome to my github!</h3>
+<img src="https://iconos8.es/icon/TP9RR7DE1AuH/c%C3%B3digo" alt="">
+
 
 
 <!--
