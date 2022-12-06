@@ -13,10 +13,10 @@
     <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" alt="typescript" width="65" height="65"/> 
     </a>
    
-    
-     <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://www.php.net/images/meta-image.png" alt="typescript" width="65" height="65"/> 
-    </a>
+      <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://www.php.net/images/meta-image.png" alt="javascript" width="65" height="65"/>  </a>
+        
+   
     
      <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://proximahost.es/blog/wp-content/uploads/2021/07/MySQL.jpg" width="65" height="65"/> 
