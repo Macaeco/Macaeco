@@ -51,9 +51,6 @@
 <a href="https://www.linkedin.com/in/macarena-sotomayor-fern%C3%A1ndez-ayuso-332564237/" rel="nofollow">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="cristian | telegram" height="30" width="30" style="max-width: 100%;"></a>
 
-<a href="https://www.linkedin.com/in/macarena-sotomayor-fern%C3%A1ndez-ayuso-332564237/" rel="nofollow">
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="cristian | telegram" height="30" width="30" style="max-width: 100%;"></a>
-
 
 
 <!--
