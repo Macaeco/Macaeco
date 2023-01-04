@@ -45,8 +45,8 @@
 <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="65" height="65"/> 
 </a></p>
   
-  <a href="https://expressjs.com/es/](https://jestjs.io/es-ES/" target="_blank"> 
-<img src="  https://ih1.redbubble.net/image.404020083.1876/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.u7.jpg" width="65" height="65"/> 
+<a href="https://expressjs.com/es/](https://jestjs.io/es-ES/" target="_blank"> 
+<img src="https://ih1.redbubble.net/image.404020083.1876/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.u7.jpg" width="65" height="65"/> 
 </a></p>
   
   
