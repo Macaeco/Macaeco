@@ -11,9 +11,9 @@
  
 
 <p align="left"> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="javascript" width="65" height="65"/> 
- <a href="https://www.javascript.com/" target="_blank"> 
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="javascript" width="65" height="65"/></code></a>
+<a href="https://www.javascript.com/" target="_blank"> 
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" alt="typescript" width="65" height="65"/> </a>
 <a href="https://www.php.net/" target="_blank"> 
 <img src="https://www.php.net/images/meta-image.png" alt="javascript" width="65" height="65"/>  </a>
