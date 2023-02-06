@@ -1,5 +1,10 @@
 <h1><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" style=" display: inline-block;" data-target="animated-image.originalImage"></a> Hi! I am Macarena!</h1>
 <h3> I am a fullstack developer. Welcome to my github!!!</h3>
+
+<p align="center">
+  <a href="https://github.com/cryptoSyndrome001"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&size=40&height=60&center=true&vCenter=true&lines=Full+Stack+Developer;Always+Learning+New+Tech"></a>
+</p>
+
 <img src="https://iconos8.es/icon/TP9RR7DE1AuH/c%C3%B3digo" alt="">
 
 #### My skills:
